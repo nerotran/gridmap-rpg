@@ -1,4 +1,5 @@
 # gridmap-rpg
+requires: pygame
 
 A program that I made in python using pygame as a proof of concept to various rpg concepts.
 
